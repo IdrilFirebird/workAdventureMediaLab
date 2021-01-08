@@ -68,6 +68,12 @@
          "id":9,
          "name":"mediaLabInfo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.media-lab.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":96,
